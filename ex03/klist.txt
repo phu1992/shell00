@@ -1,0 +1,42 @@
+Credentials cache: API:D75C23F2-5099-4745-8DCB-9D89FB8623F0
+        Principal: hpak@42SEOUL.KR
+    Cache version: 0
+
+Server: krbtgt/42SEOUL.KR@42SEOUL.KR
+Client: hpak@42SEOUL.KR
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 1
+Ticket length: 336
+Auth time:  Jul  2 20:14:56 2020
+End time:   Jul  3 06:14:56 2020
+Renew till: Jul  9 20:14:56 2020
+Ticket flags: enc-pa-rep, pre-authent, initial, renewable, proxiable, forwardable
+Addresses: addressless
+
+
+
+Credentials cache: API:C05E4F60-E407-47D0-8F8E-8EF975DFE886
+        Principal: hpak@42SEOUL.KR
+    Cache version: 0
+
+Server: krbtgt/42SEOUL.KR@42SEOUL.KR
+Client: hpak@42SEOUL.KR
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 1
+Ticket length: 336
+Auth time:  Jul  2 14:07:08 2020
+End time:   Jul  3 00:07:08 2020
+Renew till: Jul  9 14:07:08 2020
+Ticket flags: enc-pa-rep, pre-authent, initial, renewable, proxiable, forwardable
+Addresses: addressless
+
+Server: HTTP/student-storage.42seoul.kr@42SEOUL.KR
+Client: hpak@42SEOUL.KR
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 2
+Ticket length: 350
+Auth time:  Jul  2 14:07:08 2020
+Start time: Jul  2 14:07:10 2020
+End time:   Jul  3 00:07:08 2020
+Ticket flags: enc-pa-rep, transited-policy-checked, pre-authent, proxiable, forwardable
+Addresses: addressless
+
+
+
